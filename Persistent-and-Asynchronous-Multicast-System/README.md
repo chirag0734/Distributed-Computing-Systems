@@ -1,10 +1,3 @@
-###############################################################
-# Course 	: CSCI 4780/6780 Distributed Computing Systems
-# Project 3	: Persistent and Asynchronous Multicast System
-# Team Members  : Chirag Jain, Shubhi Jain
-# Date Submitted: 04/21/17
-###############################################################
-
 Instructions:
 1. There are two packages inside src folder - multicastcoordinator and participant. 
    The multicastcoordinator package contains following java files:
