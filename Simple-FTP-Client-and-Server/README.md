@@ -1,9 +1,9 @@
-###############################################################
-# Course 	: CSCI 4780/6780 Distributed Computing Systems
-# Project 1	: Simple FTP Client and Server
-# Team Members  : Chirag Jain, Shubhi Jain
-# Date Submitted: 02/17/17
-###############################################################
+---------------------------------------------------------------
+Course 	: CSCI 4780/6780 Distributed Computing Systems
+Project 1	: Simple FTP Client and Server
+Team Members  : Chirag Jain, Shubhi Jain
+Date Submitted: 02/17/17
+---------------------------------------------------------------
 
 Instructions:
 1. There are two packages inside src folder - client and server. 
